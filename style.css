@@ -379,3 +379,17 @@ input{
     line-height: 149.8%;
     color: #444BAB;
 }
+.impact{
+    position: absolute;
+    width: 116px;
+    height: 30px;
+    left: 659px;
+    top: 1638px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 149.8%;
+    text-align: center;
+    color: #444BAB;
+}
