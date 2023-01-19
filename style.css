@@ -169,7 +169,7 @@
 .img{
     position: absolute;
     width: 152px;
-    height: 47px;
+    height: 55px;
     cursor: pointer;
 }
 .ggl{
@@ -379,11 +379,14 @@ input{
     line-height: 149.8%;
     color: #444BAB;
 }
+.knwMr:hover{
+    font-size: 21px;
+}
 .impact{
     position: absolute;
     width: 116px;
     height: 30px;
-    left: 659px;
+    left: 669px;
     top: 1638px;
     font-family: 'Poppins';
     font-style: normal;
@@ -392,4 +395,353 @@ input{
     line-height: 149.8%;
     text-align: center;
     color: #444BAB;
+}
+.lwdo{
+    position: absolute;
+    width: 588px;
+    height: 44px;
+    left: 419px;
+    top: 1654px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 149.8%;
+    text-align: center;
+    color: #444557;
+}
+.stats{
+    position: absolute;
+    /* background-color: #263238; */
+    top: 1810px;
+    height: 90px;
+    width: 76%;
+    left: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.values{
+    /* background-color: #3AA2C1; */
+    height: 70px;
+    width: 150px;
+}
+.num{
+    position: absolute;
+    width: 149px;
+    height: 60px;
+    /* top: 14px; */
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 149.8%;
+
+    /* text-align: center; */
+
+    background: linear-gradient(180deg, #3E8EBC 0%, #407AB7 57.29%, #444BAB 70.31%, rgba(67, 81, 172, 0.912281) 82.81%, rgba(62, 142, 188, 0) 100%, rgba(62, 142, 188, 0) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    /* text-fill-color: transparent; */
+}
+.lpa{
+    left: 55px;
+}
+.disc{
+    position: absolute;
+    width: 149px;
+    height: 30px;
+    left: 15px;
+    top: 35px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 149.8%;
+    /* identical to box height, or 30px */
+
+    /* text-align: center; */
+
+    color: #4F5062;
+}
+.avginc{
+    left: 300px;
+    width: 200px;
+}
+.stdenrld{
+    left: 650px;
+}
+.stdrev{
+    left: 970px;
+}
+.ofering{
+    position: absolute;
+    top: 2000px;
+    width: 200px;
+    left: 634px;
+}
+.ororg{
+    top: 2060px;
+    left: 435px;
+}
+.fcu{
+    position: absolute;
+    top: 2270px;
+    left: 130px;
+    width: fit-content;
+    display: flex;
+}
+.heading{
+    position: absolute;
+    width: 653px;
+    height: 45px;
+    left: 577px;
+    top: 56px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 149.8%;
+    color: #4F516B;
+}
+.dta{
+    position: absolute;
+    width: 653px;
+    height: 57px;
+    left: 577px;
+    top: 116px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    color: #505050;
+}
+.nomr-btn{
+    position: absolute;
+    left: 577px;
+    top: 236px;
+    height: 40px;
+    width: 150px;
+    background-color: transparent;
+    border-radius: 6px;
+    /* border-image: linear-gradient(#444BAB 0%, #3E8EBC 100%),10; */
+    /* background: linear-gradient(180deg, #444BAB 0%, #3E8EBC 100%); */
+}
+.hfus{
+    position: absolute;
+    top: 2650px;
+    display: flex;
+    background-color: #263238;
+}
+.info{
+    position: absolute;
+    left: 120px;
+}
+.one{
+    position: absolute;
+    left: 10px;
+}
+.meet{
+    position: absolute;
+    left: 947px;
+}
+.nomr-btn:hover{
+    background: linear-gradient(to right,#444BAB 20.29%, #3AA2C1 79.71%);
+    color: #ffffff;
+}
+.wrkgalmn{
+    position: absolute;
+    height: 300px;
+    width: 85%;
+    top: 3122px;
+    left: 120px;
+    display: flex;
+    /* background-color: #263238; */
+}
+.alumni{
+    font-size: 15px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    top: 50px;
+    color: #444BAB;
+    line-height: 150%;
+}
+.cdjb{
+    position: absolute;
+    height: 186px;
+    width: 611px;
+    font-size: 17px;
+    font-family: 'Poppins';
+    color: #263238;
+    font-weight: 400;
+    line-height: 150%;
+}
+.join{
+    width: 633px;
+    height: 158px;
+    left: 124px;
+    /* top: 20px; */
+    /* top: 3560px; */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 149.8%;
+    /* or 54px */
+    color: #4F516B;
+
+}
+.gl{
+    left: 700px;
+}
+.az{
+    left: 929px;
+}
+.ms{
+    left: 1170px;
+}
+.adb{
+    height: 40px;
+    top: 100px;
+    left: 700px;
+}
+.rp{
+    top: 100px;
+    left: 929px;
+}
+.fk{
+    top: 100px;
+    left: 1170px;
+}
+.hs{
+    top: 200px;
+    left : 700px;
+}
+.wm{
+    top: 200px;
+    left: 929px;
+}
+.zg{
+    top: 200px;
+    left: 1170px;
+}
+.ola{
+    top: 300px;
+    left : 700px;
+}
+.mn{
+    top: 300px;
+    left: 929px;
+}
+.bp{
+    top: 300px;
+    left: 1170px;
+}
+.gldscs{
+    top: 400px;
+    left : 700px;
+}
+.zest{
+    top: 400px;
+    left: 929px;
+}
+.oyo{
+    top: 400px;
+    left: 1170px;
+}
+.sccs{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    left: 683px;
+    top: 3772px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 149.8%;
+    /* identical to box height, or 30px */
+
+    text-align: center;
+
+    color: #444BAB;
+}
+.feed{
+    position: absolute;
+    width: 574px;
+    height: 54px;
+    left: 489px;
+    top: 3800px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 149.8%;
+    /* identical to box height, or 54px */
+
+    text-align: center;
+
+    color: #4F516B;
+}
+.stories-container{
+    position: absolute;
+    height: 200px;
+    width: 65%;
+    top: 3930px;
+    left: 260px;
+    display: flex;
+    /* background-color: #263238; */
+}
+.photo-frame{
+    position: absolute;
+    background-color: #3AA2C1;
+    height: 171px;
+    width: 171px;
+    top: 30px;
+    border-radius: 50%;
+}
+.qts{
+    position: absolute;
+    left: 220px;
+}
+.tday{
+    position: absolute;
+    width: 603px;
+    height: 75px;
+    left: 315px;
+    top: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* or 27px */
+    color: #000000;
+}
+.name{
+    position: absolute;
+    left: 315px;
+    width: 200px;
+    top: 130px;
+    color: #000000;
+    font-weight: 600;
+}
+.designation{
+    position: absolute;
+    left: 315px;
+    width: 200px;
+    top: 160px;
+}
+#Amazon{
+    position: absolute;
+    height: 45px;
+    width: 85px;
+    top: 185px;
+    left: 45px;
 }
