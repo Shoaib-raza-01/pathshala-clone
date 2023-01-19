@@ -700,7 +700,7 @@ input{
 }
 .photo-frame{
     position: absolute;
-    background-color: #3AA2C1;
+    /* background-color: #3AA2C1; */
     height: 171px;
     width: 171px;
     top: 30px;
@@ -724,7 +724,7 @@ input{
     /* or 27px */
     color: #000000;
 }
-.name{
+.name2{
     position: absolute;
     left: 315px;
     width: 200px;
